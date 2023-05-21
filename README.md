@@ -24,6 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" title="Databricks" alt="Databricks" width="30" height="30"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Spark" alt="Spark" width="30" height="30"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/61449322?v=4" title="MLflow" alt="MLflow" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/datarobot_logo_icon_169296.png" title="DataRobot" alt="DataRobot" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="30" height="30"/>&nbsp;

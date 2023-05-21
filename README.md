@@ -22,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="30" height="30"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyHPZwcmNBP6fIZySah_jMuYGOaO3WhZtceFgqjAuL2Gl04ar5ADKXLjlIb23Zo1HyKYU&usqp=CAU" title="GoogleDataStudio" alt="GoogleDataStudio" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" title="Databricks" alt="Databricks" width="30" height="30"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Spark" alt="Spark" width="30" height="30"/>&nbsp;

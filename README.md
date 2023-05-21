@@ -1,8 +1,8 @@
 ### About me: 
 ---
-- I'm a Data Scientist 👨‍🏫 from the Philippines.
+- I'm a data scientist 👨‍🏫 from the Philippines.
 - I have experience delivering data analytics 📊💹 products in the manufacturing, utilities, and automotive industries.
-- I enjoy working on Computer Vision 🖼️ and Audio Processing 🎛️ related projects during my free time.
+- I enjoy working on computer vision 🖼️ and audio processing 🎛️ related projects during my free time.
 - You can view my professional profile here -> [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dave-jammin-bacad/)
 
 ### Tools and Languages:

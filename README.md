@@ -21,8 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="30" height="30"/>&nbsp;
+  <img src="https://access.tufts.edu/sites/default/files/styles/app_store_product_image/public/2022-03/0d08d9c7-0113-4e05-9cc7-f69b103af243.png?itok=bno2Koyn" title="MSPowerBI" alt="MSPowerBI" width="30" height="30"/>&nbsp;
   <img src="https://github.com/djbacad/djbacad/assets/61301478/3626b8f1-c1ff-45ba-af8c-b6395c0123a5" title="GoogleDataStudio" alt="GoogleDataStudio" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" title="Databricks" alt="Databricks" width="30" height="30"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" title="Spark" alt="Spark" width="30" height="30"/>&nbsp;

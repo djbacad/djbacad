@@ -37,6 +37,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="30" height="30"/>&nbsp;
 </div>
 
+### My Projects:
+---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=vectordb-for-similarity-search&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/vectordb-for-similarity-search)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=guitar-chord-recognition&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/guitar-chord-recognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=hard-hat-detection&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/hard-hat-detection)

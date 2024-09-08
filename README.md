@@ -45,7 +45,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=zero-shot-classifier-medical-consultation&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/zero-shot-classifier-medical-consultation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=piano-next-note-gen&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/piano-next-note-gen)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=fine-tuning-for-toxicity-detection&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/fine-tuning-for-toxicity-detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=rag-for-indian-food-recipes&theme=yeblu&description_lines_count=5)](https://github.com/djbacad/rag-for-indian-food-recipes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=rag-for-indian-food-recipes&theme=yeblu&description_lines_count=6)](https://github.com/djbacad/rag-for-indian-food-recipes)
 
 
 

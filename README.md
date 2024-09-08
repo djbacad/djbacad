@@ -36,19 +36,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="30" height="30"/>&nbsp;
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=vectordb-for-similarity-search&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/vectordb-for-similarity-search)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=guitar-chord-recognition&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/guitar-chord-recognition)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=hard-hat-detection&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/hard-hat-detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=zero-shot-classifier-medical-consultation&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/zero-shot-classifier-medical-consultation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=piano-next-note-gen&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/piano-next-note-gen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=fine-tuning-for-toxicity-detection&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/fine-tuning-for-toxicity-detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=rag-for-indian-food-recipes&theme=yeblu&description_lines_count=3)](https://github.com/djbacad/rag-for-indian-food-recipes)
+
 <!--
 **djbacad/djbacad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=vectordb-for-similarity-search&theme=ambient_gradient&description_lines_count=3)](https://github.com/djbacad/vectordb-for-similarity-search)

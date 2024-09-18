@@ -3,7 +3,7 @@
 - I'm a data and ai professional 👨‍🏫 from the Philippines.
 - I have experience delivering data analytics 📊💹 products in various industries.
 - I enjoy working on natural language processing 💁, computer vision 🖼️, and audio processing 🎛️ related projects during my free time.
-- You can view my professional profile here -> [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dave-jammin-bacad/)
+- You can view my professional profile here -> [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dave-jammin-bacad/).
 
 ### Tools and Languages:
 ---

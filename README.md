@@ -46,6 +46,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=piano-next-note-gen&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/piano-next-note-gen)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=fine-tuning-for-toxicity-detection&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/fine-tuning-for-toxicity-detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=rag-for-indian-food-recipes&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-for-indian-food-recipes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=rag-dota2-patch-notes-assistant&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-dota2-patch-notes-assistant)
 
 
 

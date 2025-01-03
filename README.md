@@ -39,6 +39,7 @@
 
 ### My Projects:
 ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=rag-dota2-patch-notes-assistant&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-dota2-patch-notes-assistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=vectordb-for-similarity-search&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/vectordb-for-similarity-search)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=guitar-chord-recognition&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/guitar-chord-recognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=hard-hat-detection&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/hard-hat-detection)
@@ -46,7 +47,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=piano-next-note-gen&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/piano-next-note-gen)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=fine-tuning-for-toxicity-detection&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/fine-tuning-for-toxicity-detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=rag-for-indian-food-recipes&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-for-indian-food-recipes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=rag-dota2-patch-notes-assistant&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-dota2-patch-notes-assistant)
+
 
 
 

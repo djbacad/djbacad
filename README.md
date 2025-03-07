@@ -43,7 +43,7 @@
 
 ### My Projects:
 ---
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=langflow-chainlit-sample&theme=noctis_minimus&description_lines_count=9)](https://github.com/djbacad/langflow-chainlit-sample)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=vehicle-height-estimation&theme=noctis_minimus&description_lines_count=9)](https://github.com/djbacad/vehicle-height-estimation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=rag-dota2-patch-notes-assistant&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-dota2-patch-notes-assistant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djbacad&repo=vectordb-for-similarity-search&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/vectordb-for-similarity-search)

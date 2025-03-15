@@ -37,9 +37,8 @@
   <img src="https://avatars.githubusercontent.com/u/14957082?v=4" title="OpenAI" alt="OpenAI" width="30" height="30"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" title="LangChain" alt="LangChain" width="30" height="30"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/85702467?s=280&v=4" title="LangFlow" alt="LangFlow" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="30" height="30"/>&nbsp;
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" title="Fabric" alt="Fabric" width="30" height="30"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="30" height="30"/>&nbsp;
   
 </div>
 

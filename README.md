@@ -45,6 +45,7 @@
 ### My Projects:
 ---
 [![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=fabric-etl-webapi-template&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/fabric-etl-webapi-template)
+[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=fastapi-react-openai-websocket-demo&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/fastapi-react-openai-websocket-demo)
 [![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=langflow-chainlit-sample&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/langflow-chainlit-sample)
 [![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=vehicle-height-estimation&theme=noctis_minimus&description_lines_count=9)](https://github.com/djbacad/vehicle-height-estimation)
 [![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=rag-dota2-patch-notes-assistant&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-dota2-patch-notes-assistant)

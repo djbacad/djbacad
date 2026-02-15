@@ -43,19 +43,20 @@
 </div>
 
 ### My Projects:
+
 ---
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=fabric-etl-webapi-template&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/fabric-etl-webapi-template)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=fastapi-react-openai-websocket-demo&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/fastapi-react-openai-websocket-demo)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=langflow-chainlit-sample&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/langflow-chainlit-sample)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=vehicle-height-estimation&theme=noctis_minimus&description_lines_count=9)](https://github.com/djbacad/vehicle-height-estimation)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=rag-dota2-patch-notes-assistant&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-dota2-patch-notes-assistant)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=vectordb-for-similarity-search&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/vectordb-for-similarity-search)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=guitar-chord-recognition&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/guitar-chord-recognition)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=hard-hat-detection&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/hard-hat-detection)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=zero-shot-classifier-medical-consultation&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/zero-shot-classifier-medical-consultation)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=piano-next-note-gen&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/piano-next-note-gen)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=fine-tuning-for-toxicity-detection&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/fine-tuning-for-toxicity-detection)
-[![Readme Card](https://github-readme-stats-47q7.vercel.app/api/pin/?username=djbacad&repo=rag-for-indian-food-recipes&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-for-indian-food-recipes)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=fabric-etl-webapi-template&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/fabric-etl-webapi-template)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=fastapi-react-openai-websocket-demo&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/fastapi-react-openai-websocket-demo)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=langflow-chainlit-sample&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/langflow-chainlit-sample)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=vehicle-height-estimation&theme=noctis_minimus&description_lines_count=9)](https://github.com/djbacad/vehicle-height-estimation)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=rag-dota2-patch-notes-assistant&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-dota2-patch-notes-assistant)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=vectordb-for-similarity-search&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/vectordb-for-similarity-search)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=guitar-chord-recognition&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/guitar-chord-recognition)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=hard-hat-detection&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/hard-hat-detection)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=zero-shot-classifier-medical-consultation&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/zero-shot-classifier-medical-consultation)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=piano-next-note-gen&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/piano-next-note-gen)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=fine-tuning-for-toxicity-detection&theme=noctis_minimus&description_lines_count=3)](https://github.com/djbacad/fine-tuning-for-toxicity-detection)
+[![Readme Card](https://github-readme-stats-alpha-vert-60.vercel.app/api/pin/?username=djbacad&repo=rag-for-indian-food-recipes&theme=noctis_minimus&description_lines_count=6)](https://github.com/djbacad/rag-for-indian-food-recipes)
 
 
 

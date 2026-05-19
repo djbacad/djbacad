@@ -25,7 +25,7 @@
   <img src="https://github.com/djbacad/djbacad/assets/61301478/3626b8f1-c1ff-45ba-af8c-b6395c0123a5" title="GoogleDataStudio" alt="GoogleDataStudio" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/cc4e5bfb8fa4dea9daa125eb1ce735013cad092ea2703e11edd02d788d628981/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3439362f36322f706e672d7472616e73706172656e742d64617461627269636b732d6c6f676f2d7468756d626e61696c2d746563682d636f6d70616e6965732d7468756d626e61696c2e706e67" title="Databricks" alt="Databricks" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" title="Databricks" alt="Databricks" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="30" height="30"/>&nbsp;  
   <img src="https://avatars.githubusercontent.com/u/61449322?v=4" title="MLflow" alt="MLflow" width="30" height="30"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/5280184?s=280&v=4" title="DataRobot" alt="DataRobot" width="30" height="30"/>&nbsp;
